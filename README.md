@@ -21,4 +21,4 @@
 
 ## 🎬 游戏演示
 
-[📹 点击观看演示视频](https://github.com/si1ver2333/Pupubobo-Game/releases/download/video/pupubobo.mp4)
+[📹 点击下载观看演示视频](https://github.com/si1ver2333/Pupubobo-Game/releases/download/video/pupubobo.mp4)
