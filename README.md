@@ -21,5 +21,5 @@
 
 ## 🎬 游戏演示
 
-
+[](https://github.com/si1ver2333/Pupubobo-Game/releases/download/video/pupubobo.mp4)
 
