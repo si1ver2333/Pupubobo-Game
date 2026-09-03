@@ -21,5 +21,6 @@
 
 ## 🎬 游戏演示
 
-[](https://github.com/si1ver2333/Pupubobo-Game/releases/download/video/pupubobo.mp4)
-
+<video width="640" controls>
+  <source src="https://si1ver2333.github.io/Pupubobo-Game/pupubobo.mp4" type="video/mp4">
+</video>
